@@ -19,3 +19,6 @@ Branches are good to make experimental changes
 
 How do the diagrams help you visualize the branch structure?
 The branches help us to see what changes are in which branch and how are each branches related to each other and the master.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The features of both the branches are merged together. Showing it in diagram helps us to visualize the sequence in which changes have been made.
