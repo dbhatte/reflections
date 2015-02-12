@@ -8,3 +8,14 @@ staging area contains files which have been added to the repository
 working directory contains added, new, committed files
 repository only contains committed files
 Staging area allows us to group a bunch of files in a single commit. This allows for logical committing.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+We can create a logical group commit by adding a group of files first and then committing them.
+This can be done again and again.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches are good to make experimental changes
+
+How do the diagrams help you visualize the branch structure?
+The branches help us to see what changes are in which branch and how are each branches related to each other and the master.
