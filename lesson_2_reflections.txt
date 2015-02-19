@@ -22,3 +22,7 @@ The branches help us to see what changes are in which branch and how are each br
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The features of both the branches are merged together. Showing it in diagram helps us to visualize the sequence in which changes have been made.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: It helps to reduce simple merges
+cons: Git wouldn't be able to predict complicated changes because that would require a lot of machine learning
